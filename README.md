@@ -1,4 +1,4 @@
-# Booklab.me - Book recommendations that make sense
+# Booklab.me <small>Book recommendations that make sense</small>
 
 ## Needs
 
