@@ -45,7 +45,7 @@ So that I can be sure the book is relevant to my interests
 
 ```
 When I'm looking for people I look up to  
-I want to search for them by their full name, display name, or email address
+I want to search for them by their full name, display name, email address, twitter contacts  
 So that I can find them easily
 ```
 
@@ -84,8 +84,8 @@ So I can gauge other reviews and easily make a purchasing decision
 
 ```
 When a book is shared  
-I would like to see if others said anything about it  
-So I can get a better picture of what it's like
+I would like to see whether others said anything about it  
+So I can get a better idea of what it's like
 ```
 
 ### Reading List
@@ -93,13 +93,13 @@ So I can get a better picture of what it's like
 ```
 When there are book recommendations I like  
 I want to be able to add them a reading list  
-So that I can have a list of books to read in the future
+So that I can have a list of future reads that's device-agnostic
 ```
 
 ```
 When there are books in my reading list  
-I want to be able to sort them based on my interest  
-So my reading list becomes meaningful
+I want to be able to prioritize them as I wish  
+So my reading list becomes more meaningful
 ```
 
 ```
@@ -112,7 +112,7 @@ So that I can make more sense of the books
 
 ```
 When a person I admire has posted a new book  
-I want to be notified through email
+I want to be notified through email  
 So that I can review their recommendations easily
 ```
 
@@ -125,8 +125,8 @@ So that I can have a productive, on-going conversation
 
 ```
 When I've read a book that I like  
-I would like to share it on my public wall 
-So they can benefit as I did
+I would like to share it on my public wall  
+So that my followers may have a chance to read it
 ```
 
 ## Technical Outline
