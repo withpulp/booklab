@@ -43,34 +43,47 @@ I want to find books from people I look up to
 So that I can be sure the book is relevant to my interests
 ```
 
+```
+When I'm looking for people I look up to  
+I want to search for them by their full name, display name, or email address
+So that I can find them easily
+```
+
+```
+When I find someone that I look up to  
+I want to be able to follow them  
+So that I can see their book recommendations appear in real-time
+```
+
+
 ### Book Wall
 
 ```
-When a recommendation is shared  
+When a book is shared  
 I would like it to include a title and author  
 So I can do my own research on the book
 ```
 
 ```
-When a recommendation is shared  
+When a book is shared  
 I want to see a short description from the person who recommended it  
 So I can see whether it is something I'd like
 ```
 
 ```
-When a recommendation is shared  
+When a book is shared  
 I would like to see the genre of the book and other books within that genre  
 So I can see similar books that I may like
 ```
 
 ```
-When a recommendation is shared  
+When a book is shared  
 I would like a link to Amazon or other retailers  
 So I can gauge other reviews and easily make a purchasing decision
 ```
 
 ```
-When a recommendation is shared  
+When a book is shared  
 I would like to see if others said anything about it  
 So I can get a better picture of what it's like
 ```
@@ -103,11 +116,16 @@ I want to be notified through email
 So that I can review their recommendations easily
 ```
 
-### Sharing
+### Social
+```
+When a book is shared on my wall  
+I would like to be able to chat with the recommender about that book  
+So that I can have a productive, on-going conversation
+```
 
 ```
-When I've read a book that's had tremendous impact on me  
-I would like to share it with others  
+When I've read a book that I like  
+I would like to share it on my public wall 
 So they can benefit as I did
 ```
 
